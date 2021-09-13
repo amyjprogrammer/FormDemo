@@ -1,0 +1,14 @@
+form {
+    background-color: chartreuse;
+    border: 2px solid blue;
+    margin-top: 45%;
+}
+
+input {
+    color: blue;
+    /* margin: auto; */
+    display: block;
+    margin: 4px auto; 
+    
+}
+
